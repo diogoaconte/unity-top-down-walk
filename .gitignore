@@ -1,0 +1,8 @@
+bin/
+obj/
+Logs/
+Packages/
+Library/
+Temp/
+UserSettings/
+**.meta
