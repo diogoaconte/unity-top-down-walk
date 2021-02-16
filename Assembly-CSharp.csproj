@@ -173,9 +173,6 @@
     <Reference Include="UnityEngine.UIModule">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIModule.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEngine.UIElementsModule">
-        <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsModule.dll</HintPath>
-    </Reference>
     <Reference Include="UnityEngine.UIElementsNativeModule">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed/UnityEngine/UnityEngine.UIElementsNativeModule.dll</HintPath>
     </Reference>
@@ -247,9 +244,6 @@
     </Reference>
     <Reference Include="UnityEditor.SceneTemplateModule">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed/UnityEngine/UnityEditor.SceneTemplateModule.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.UIElementsModule">
-        <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsModule.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UIElementsSamplesModule">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.2.4f1/Editor/Data/Managed/UnityEngine/UnityEditor.UIElementsSamplesModule.dll</HintPath>
@@ -631,6 +625,33 @@
     </Reference>
     <Reference Include="UnityEngine.UI">
         <HintPath>C:/repository/panacea/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextCore">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/Unity.TextCore.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.UIElements.Editor.Text">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/Unity.UIElements.Editor.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsModule">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/UnityEngine.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIElementsModule">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/UnityEditor.UIElementsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.TextCore.Editor">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/Unity.TextCore.Editor.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsInputSystemModule">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/UnityEngine.UIElementsInputSystemModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.UIElementsGameObjectsModule">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/UnityEngine.UIElementsGameObjectsModule.dll</HintPath>
+    </Reference>
+    <Reference Include="Unity.UIElements.Text">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/Unity.UIElements.Text.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEditor.UIBuilderModule">
+        <HintPath>C:/repository/panacea/Library/ScriptAssemblies/UnityEditor.UIBuilderModule.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
