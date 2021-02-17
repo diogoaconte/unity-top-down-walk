@@ -38,6 +38,7 @@
   <ItemGroup>
      <Compile Include="Assets\src\CameraFollow.cs" />
      <Compile Include="Assets\src\PlayerMovement.cs" />
+     <Compile Include="Assets\src\MainMenu.cs" />
      <None Include="Assets\UI Toolkit\Sprites\EmojiOne Attribution.txt" />
      <None Include="Assets\UI\main-menu.uss" />
      <None Include="Assets\UI\main-menu.uxml" />
