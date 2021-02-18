@@ -1,0 +1,18 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="main-menu.uss" />
+    <ui:VisualElement name="main-visual-element" style="width: 100%; height: 100%; background-image: none; -unity-background-scale-mode: scale-and-crop; background-color: rgb(46, 58, 35); color: rgb(197, 175, 153); -unity-font: url(&apos;Library/unity default resources&apos;);">
+        <ui:VisualElement name="upper-visual-element" style="flex-direction: column; height: 50%;">
+            <ui:Label text="PANACEA" name="title" display-tooltip-when-elided="false" style="background-image: none; -unity-font-style: bold; -unity-font: resource(&apos;Fonts &amp; Materials/LiberationSans&apos;); color: rgb(79, 79, 30); font-size: 50%; -unity-text-align: upper-center;" />
+        </ui:VisualElement>
+        <ui:VisualElement name="middle-visual-element" style="height: 40%;">
+            <ui:VisualElement name="button-area" style="align-items: auto; bottom: auto; -unity-font: url(&apos;/Assets/UI Toolkit/Resources/Fonts &amp; Materials/LiberationSans.ttf&apos;);">
+                <ui:Button text="Start&#10;" display-tooltip-when-elided="true" name="start-button" />
+                <ui:Button text="Options&#10;" display-tooltip-when-elided="true" name="about-button" />
+                <ui:Button text="About&#10;" display-tooltip-when-elided="true" name="options-button" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+        <ui:VisualElement name="lower-visual-element" style="height: 10%;">
+            <ui:Label text="giggi games - 2021" display-tooltip-when-elided="true" name="footer-text" enable-rich-text="true" style="-unity-font: resource(&apos;Fonts &amp; Materials/LiberationSans&apos;); -unity-text-align: upper-right; font-size: 12px;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>
